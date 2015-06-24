@@ -1,6 +1,6 @@
 # Ember-esrijs
 
-This is a demo application for the [ember-cli-amd](https://github.com/Esri/ember-cli-am://github.com/Esri/ember-cli-amd) addon.
+This is a demo application for the [ember-cli-amd](https://github.com/Esri/ember-cli-amd) addon.
 
 You can view a demo [here](http://esri.github.io/ember-cli-amd/).
 
