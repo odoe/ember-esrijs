@@ -1,7 +1,8 @@
 # Ember-esrijs
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a demo application for the [ember-cli-amd](https://github.com/Esri/ember-cli-am://github.com/Esri/ember-cli-amd) addon.
+
+You can view a demo [here](http://esri.github.io/ember-cli-amd/).
 
 ## Prerequisites
 
